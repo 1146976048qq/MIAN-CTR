@@ -1,2 +1,2 @@
-# FMAN
-FMAN ctr model
+# RS
+ ctr model
