@@ -1,0 +1,1 @@
+Applying for permission ..., please wait patiently)

@@ -1,0 +1,1 @@
+tar -jxvf ./data.tar.bz2
