@@ -1,0 +1,68 @@
+2019-08-03 15:16:59.716496: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-08-03 15:17:57.384040: W tensorflow/core/framework/allocator.cc:122] Allocation of 10272227328 exceeds 10% of system memory.
+2019-08-03 15:17:57.400726: W tensorflow/core/framework/allocator.cc:122] Allocation of 10272227328 exceeds 10% of system memory.
+603668 367982 1579
+367982
+[(427607, [230063, 308668, 212733, 245041, 290867, 9556, 95947, 217284, 307930, 201732], (50769, 226773)), (465234, [244, 25655, 184774, 37502, 177191, 311024, 322700, 37503, 37607, 113534, 24190], (203801, 19699)), (529489, [122789, 122899, 122877, 122885, 122726, 122784, 193968, 212437, 122839, 188339, 233436, 122950, 130451, 122900, 213784, 233455, 134281, 188328, 188329, 30252, 188330, 122858, 122957, 122940, 29708, 187852, 188363, 188274, 122970, 188383, 122968, 188333, 188313, 122922, 122859, 179943, 182786, 29737, 122901, 122998, 188488, 253201, 188224, 122965, 182818, 123007, 240993, 122934, 188493, 123010, 122991, 188480, 29761, 188513, 122887, 123008, 188490, 365416, 188507, 188440, 188509, 188497, 188384, 188273, 253214, 188438, 188439, 188318, 188245, 188332], (148208, 218920)), (530011, [43889, 80146, 286901, 119083, 289110, 245598, 124295, 289647, 290695, 176123, 198397, 198398, 207840, 288911, 289364, 292811, 124638, 296487], (2750, 244456)), (227587, [39035, 40860, 43716, 279623, 2607, 41078, 7454, 9404, 24927, 34310, 5441, 587, 9556, 19319, 59351, 72325, 184110, 209667], (265080, 4864))]
+[None, 128]
+[None, 128]
+[None, 128]
+[None, 128]
+[None, 100, 128]
+[None, 2]
+test_gauc: 0.5008	 test_auc: 0.5179
+2019-08-03 15:22:19.684526: W tensorflow/core/framework/allocator.cc:122] Allocation of 10272227328 exceeds 10% of system memory.
+2019-08-03 15:22:19.689344: W tensorflow/core/framework/allocator.cc:122] Allocation of 10272227328 exceeds 10% of system memory.
+Epoch 0 Global_step 1000	Train_loss: 0.7018	Eval_GAUC: 0.9633	Eval_AUC: 0.9566
+2019-08-03 15:26:20.858528: W tensorflow/core/framework/allocator.cc:122] Allocation of 10272227328 exceeds 10% of system memory.
+Epoch 0 Global_step 2000	Train_loss: 0.6961	Eval_GAUC: 0.9351	Eval_AUC: 0.9333
+Epoch 0 Global_step 3000	Train_loss: 0.6951	Eval_GAUC: 0.9100	Eval_AUC: 0.9074
+Epoch 0 Global_step 4000	Train_loss: 0.6938	Eval_GAUC: 0.8913	Eval_AUC: 0.8909
+Epoch 0 Global_step 5000	Train_loss: 0.6922	Eval_GAUC: 0.8744	Eval_AUC: 0.8737
+Epoch 0 Global_step 6000	Train_loss: 0.6917	Eval_GAUC: 0.8617	Eval_AUC: 0.8611
+Epoch 0 Global_step 7000	Train_loss: 0.6908	Eval_GAUC: 0.8508	Eval_AUC: 0.8496
+Epoch 0 Global_step 8000	Train_loss: 0.6905	Eval_GAUC: 0.8438	Eval_AUC: 0.8415
+Epoch 0 Global_step 9000	Train_loss: 0.6887	Eval_GAUC: 0.8346	Eval_AUC: 0.8298
+Epoch 0 Global_step 10000	Train_loss: 0.6896	Eval_GAUC: 0.8294	Eval_AUC: 0.8202
+Epoch 0 Global_step 11000	Train_loss: 0.6868	Eval_GAUC: 0.8227	Eval_AUC: 0.8034
+Epoch 0 Global_step 12000	Train_loss: 0.6875	Eval_GAUC: 0.7873	Eval_AUC: 0.7745
+Epoch 0 Global_step 13000	Train_loss: 0.6845	Eval_GAUC: 0.7555	Eval_AUC: 0.7555
+Epoch 0 Global_step 14000	Train_loss: 0.6843	Eval_GAUC: 0.7717	Eval_AUC: 0.7714
+Epoch 0 Global_step 15000	Train_loss: 0.6846	Eval_GAUC: 0.7242	Eval_AUC: 0.7034
+Epoch 0 Global_step 16000	Train_loss: 0.6799	Eval_GAUC: 0.7980	Eval_AUC: 0.7316
+Epoch 0 Global_step 17000	Train_loss: 0.6699	Eval_GAUC: 0.8334	Eval_AUC: 0.8339
+Epoch 0 Global_step 18000	Train_loss: 0.6642	Eval_GAUC: 0.8587	Eval_AUC: 0.8995
+Epoch 0 Global_step 19000	Train_loss: 0.6632	Eval_GAUC: 0.9270	Eval_AUC: 0.9189
+Epoch 0 Global_step 20000	Train_loss: 0.6620	Eval_GAUC: 0.9674	Eval_AUC: 0.9490
+Epoch 0 Global_step 21000	Train_loss: 0.6618	Eval_GAUC: 0.9673	Eval_AUC: 0.9522
+Epoch 0 Global_step 22000	Train_loss: 0.6603	Eval_GAUC: 0.9441	Eval_AUC: 0.9333
+Epoch 0 Global_step 23000	Train_loss: 0.6594	Eval_GAUC: 0.9463	Eval_AUC: 0.9364
+Epoch 0 Global_step 24000	Train_loss: 0.6595	Eval_GAUC: 0.9616	Eval_AUC: 0.9491
+Epoch 0 Global_step 25000	Train_loss: 0.6555	Eval_GAUC: 0.9317	Eval_AUC: 0.9274
+Epoch 0 Global_step 26000	Train_loss: 0.6597	Eval_GAUC: 0.9136	Eval_AUC: 0.9101
+Epoch 0 Global_step 27000	Train_loss: 0.6567	Eval_GAUC: 0.9258	Eval_AUC: 0.9233
+Epoch 0 Global_step 28000	Train_loss: 0.6563	Eval_GAUC: 0.9209	Eval_AUC: 0.9197
+Epoch 0 Global_step 29000	Train_loss: 0.6569	Eval_GAUC: 0.9224	Eval_AUC: 0.9208
+Epoch 0 Global_step 30000	Train_loss: 0.6558	Eval_GAUC: 0.9184	Eval_AUC: 0.9177
+Epoch 0 Global_step 31000	Train_loss: 0.6521	Eval_GAUC: 0.9112	Eval_AUC: 0.9117
+Epoch 0 Global_step 32000	Train_loss: 0.6559	Eval_GAUC: 0.9166	Eval_AUC: 0.9154
+Epoch 0 Global_step 33000	Train_loss: 0.6524	Eval_GAUC: 0.9154	Eval_AUC: 0.9122
+Epoch 0 Global_step 34000	Train_loss: 0.6516	Eval_GAUC: 0.9023	Eval_AUC: 0.9017
+Epoch 0 Global_step 35000	Train_loss: 0.6499	Eval_GAUC: 0.8852	Eval_AUC: 0.8896
+Epoch 0 Global_step 36000	Train_loss: 0.6504	Eval_GAUC: 0.8859	Eval_AUC: 0.8887
+Epoch 0 Global_step 37000	Train_loss: 0.6521	Eval_GAUC: 0.8898	Eval_AUC: 0.8895
+Epoch 0 Global_step 38000	Train_loss: 0.6530	Eval_GAUC: 0.8972	Eval_AUC: 0.8931
+Epoch 0 Global_step 39000	Train_loss: 0.6497	Eval_GAUC: 0.8881	Eval_AUC: 0.8909
+Epoch 0 Global_step 40000	Train_loss: 0.6461	Eval_GAUC: 0.7465	Eval_AUC: 0.8452
+Epoch 0 Global_step 41000	Train_loss: 0.6456	Eval_GAUC: 0.8075	Eval_AUC: 0.8637
+Epoch 0 Global_step 42000	Train_loss: 0.6441	Eval_GAUC: 0.7941	Eval_AUC: 0.8598
+Epoch 0 Global_step 43000	Train_loss: 0.6425	Eval_GAUC: 0.7562	Eval_AUC: 0.8327
+Epoch 0 Global_step 44000	Train_loss: 0.6450	Eval_GAUC: 0.7517	Eval_AUC: 0.8322
+Epoch 0 Global_step 45000	Train_loss: 0.6437	Eval_GAUC: 0.7897	Eval_AUC: 0.8436
+Epoch 0 Global_step 46000	Train_loss: 0.6404	Eval_GAUC: 0.8029	Eval_AUC: 0.8497
+Epoch 0 Global_step 47000	Train_loss: 0.6404	Eval_GAUC: 0.7643	Eval_AUC: 0.8303
+Epoch 0 Global_step 48000	Train_loss: 0.6399	Eval_GAUC: 0.7688	Eval_AUC: 0.8240
+Epoch 0 Global_step 49000	Train_loss: 0.6400	Eval_GAUC: 0.7507	Eval_AUC: 0.8090
+Epoch 0 Global_step 50000	Train_loss: 0.6401	Eval_GAUC: 0.7600	Eval_AUC: 0.8177
+Epoch 0 Global_step 51000	Train_loss: 0.6408	Eval_GAUC: 0.7904	Eval_AUC: 0.8337
+Epoch 0 Global_step 52000	Train_loss: 0.6387	Eval_GAUC: 0.7994	Eval_AUC: 0.8330

@@ -1,0 +1,31 @@
+Traceback (most recent call last):
+  File "train_kkzhang.py", line 6, in <module>
+    import tensorflow as tf
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/tensorflow/__init__.py", line 24, in <module>
+    from tensorflow.python import *
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 52, in <module>
+    from tensorflow.core.framework.graph_pb2 import *
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/tensorflow/core/framework/graph_pb2.py", line 6, in <module>
+    from google.protobuf import descriptor as _descriptor
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/google/protobuf/__init__.py", line 37, in <module>
+    __import__('pkg_resources').declare_namespace(__name__)
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 664, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 634, in _load_backward_compatible
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 2985, in <module>
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 2971, in _call_aside
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 2998, in _initialize_master_working_set
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 651, in _build_master
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 644, in __init__
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 700, in add_entry
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 1990, in find_on_path
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 2399, in from_location
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 2740, in _reload_version
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 2364, in _version_from_file
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 2531, in _get_metadata
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 1463, in has_metadata
+  File "/home/kkzhang/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg/pkg_resources/__init__.py", line 1565, in _has
+  File "/home/kkzhang/anaconda3/lib/python3.5/genericpath.py", line 19, in exists
+    os.stat(path)
+KeyboardInterrupt
